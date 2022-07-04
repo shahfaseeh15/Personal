@@ -1,0 +1,124 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  font-size: 437.5%;
+  font-family: 'Indie Flower', cursive;
+  color: #66BFBF;
+  margin-top: 0;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-bottom: 18px;
+}
+h2{
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  color: #11999E;
+  padding-bottom: 5px;
+}
+p{
+  font-family: 'Arima', cursive;
+  padding-left: 20px;
+  margin-bottom: 10px;
+  line-height: 3;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.mountain{
+  height: 450px;
+  width: 750px;
+}
+.cloud1{
+  height: 96px;
+  width: 151px;
+  position: absolute;
+  right: 400px;
+  top: 30px;
+}
+.cloud2{
+  height: 96px;
+  width: 151px;
+  position: absolute;
+  left: 300px;
+  top: 150px;
+}
+.pro{
+  font-weight: bold;
+  font-size: 25px;
+  color: #11999E;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+.upper-container{
+  background-color: #FCF8E8;
+  padding-top: 100px;
+  position: relative;
+
+}
+.middle-container{
+  background-color: #FCF8E8;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.hr{
+  border-style: none;
+  width: 20%;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+}
+.site{
+  margin-right: 20px;
+  float: left;
+}
+.cricket{
+  margin-left: 20px;
+  float: right;
+}
+.cooking{
+  margin-right: 20px;
+  float: left;
+}
+a{
+  font-family: 'Arima', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+.btn {
+ box-shadow: 0 0 0 2px #9fb4f2;
+ background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+ background-color:#11cdd4;
+ border-radius:8px;
+ border:1px solid #4e6096;
+ display:inline-block;
+ cursor:pointer;
+ color:#ffffff;
+ font-family:'Arima', cursive;
+ font-size:19px;
+ padding:12px 37px;
+ text-decoration:none;
+ text-shadow:0 1px 0 #283966;
+}
+.btn:hover {
+ background:linear-gradient(to bottom, #11999e 5%, #11cdd4 100%);
+ background-color:#11999e;
+}
+.btn:active {
+ position:relative;
+ top:1px;
+}
